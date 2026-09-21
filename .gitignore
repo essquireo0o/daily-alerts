@@ -6,3 +6,6 @@ dist/
 err.log
 *.tmp
 appointments.json
+*.log
+o.log
+e.log
