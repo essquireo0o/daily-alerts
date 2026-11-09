@@ -49,3 +49,12 @@ Windows appointment reminder, full screen alarm, desktop reminder app, never mis
 ## License
 
 MIT — do whatever you want with it.
+
+
+---
+
+## Copyright
+
+Copyright © 2026 ING Mining LLC. Released under the MIT License (see LICENSE).
+
+Contact: ns@ingmining.com
